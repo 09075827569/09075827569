@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @09075827569
+- 👋 Hi, I’m @amazue
 - 👀 I’m interested in python and java script
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on c++
